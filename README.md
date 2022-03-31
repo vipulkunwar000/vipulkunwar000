@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Copywriting and Python
 - 🌱 I’m currently learning ...Python and Copywriting
 - 💞️ I’m looking to collaborate on ...Python Projects
-- 📫 How to reach me ...at twitter @VipulKunwar8
+- 📫 How to reach me ...at twitter @codewith_Vipul
 
 <!---
 vipulkunwar000/vipulkunwar000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
